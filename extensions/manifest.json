@@ -1,0 +1,309 @@
+[
+  {
+    "extensionId": "f85ac0d1-bdf6-4754-ab38-34ca595439e4",
+    "extensionName": "claude-code",
+    "displayName": "Claude Code for VS Code",
+    "shortDescription": "Claude Code for VS Code: Harness the power of Claude Code without leaving your IDE",
+    "publisher": {
+      "publisherId": "b780a23b530ef6bb5c3b722a0c9c5e3abf222e8b",
+      "publisherName": "Anthropic",
+      "displayName": "Anthropic",
+      "flags": "verified"
+    },
+    "flags": "validated",
+    "statistics": [],
+    "tags": [],
+    "categories": [
+      "AI",
+      "Chat"
+    ],
+    "releaseDate": "2026-07-21T12:58:34.533Z",
+    "publishedDate": "2026-07-21T12:58:34.534Z",
+    "lastUpdated": "2026-07-21T12:58:34.534Z",
+    "deploymentType": 0,
+    "versions": [
+      {
+        "version": "2.1.89",
+        "flags": "validated",
+        "lastUpdated": "2026-07-21T12:58:34.534Z",
+        "properties": [
+          {
+            "key": "Microsoft.VisualStudio.Code.Engine",
+            "value": "^1.94.0"
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionDependencies",
+            "value": ""
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionPack",
+            "value": ""
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionKind",
+            "value": "ui,workspace"
+          }
+        ],
+        "files": [
+          {
+            "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+            "source": "https://127.0.0.1:8080/api/assets/Anthropic/claude-code/2.1.89/Microsoft.VisualStudio.Services.VSIXPackage"
+          },
+          {
+            "assetType": "Microsoft.VisualStudio.Code.Manifest",
+            "source": "https://127.0.0.1:8080/api/assets/Anthropic/claude-code/2.1.89/Microsoft.VisualStudio.Code.Manifest"
+          }
+        ],
+        "assetUri": "https://127.0.0.1:8080/api/assets/Anthropic/claude-code/2.1.89",
+        "fallbackAssetUri": "https://127.0.0.1:8080/api/assets/Anthropic/claude-code/2.1.89"
+      }
+    ]
+  },
+  {
+    "extensionId": "fc749137-9622-4462-8088-3e9507fc7ecd",
+    "extensionName": "terraform",
+    "displayName": "HashiCorp Terraform",
+    "shortDescription": "Syntax highlighting and autocompletion for Terraform",
+    "publisher": {
+      "publisherId": "150c8bb3e07fcfb8485315c7d6b18f2b33b90ec3",
+      "publisherName": "hashicorp",
+      "displayName": "hashicorp",
+      "flags": "verified"
+    },
+    "flags": "validated",
+    "statistics": [],
+    "tags": [],
+    "categories": [
+      "Programming Languages",
+      "Other",
+      "Formatters",
+      "Linters"
+    ],
+    "releaseDate": "2026-07-21T12:58:34.549Z",
+    "publishedDate": "2026-07-21T12:58:34.549Z",
+    "lastUpdated": "2026-07-21T12:58:34.549Z",
+    "deploymentType": 0,
+    "versions": [
+      {
+        "version": "2.39.4",
+        "flags": "validated",
+        "lastUpdated": "2026-07-21T12:58:34.549Z",
+        "properties": [
+          {
+            "key": "Microsoft.VisualStudio.Code.Engine",
+            "value": "^1.92.2"
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionDependencies",
+            "value": ""
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionPack",
+            "value": ""
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionKind",
+            "value": "ui,workspace"
+          }
+        ],
+        "files": [
+          {
+            "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+            "source": "https://127.0.0.1:8080/api/assets/hashicorp/terraform/2.39.4/Microsoft.VisualStudio.Services.VSIXPackage"
+          },
+          {
+            "assetType": "Microsoft.VisualStudio.Code.Manifest",
+            "source": "https://127.0.0.1:8080/api/assets/hashicorp/terraform/2.39.4/Microsoft.VisualStudio.Code.Manifest"
+          }
+        ],
+        "assetUri": "https://127.0.0.1:8080/api/assets/hashicorp/terraform/2.39.4",
+        "fallbackAssetUri": "https://127.0.0.1:8080/api/assets/hashicorp/terraform/2.39.4"
+      }
+    ]
+  },
+  {
+    "extensionId": "f9ae76da-8f69-4104-91d6-9fa59d17683b",
+    "extensionName": "markdown-preview-enhanced",
+    "displayName": "%displayName%",
+    "shortDescription": "%description%",
+    "publisher": {
+      "publisherId": "337b084e92cad97a3f03488a81e557a813e7b338",
+      "publisherName": "shd101wyy",
+      "displayName": "shd101wyy",
+      "flags": "verified"
+    },
+    "flags": "validated",
+    "statistics": [],
+    "tags": [],
+    "categories": [
+      "Other"
+    ],
+    "releaseDate": "2026-07-21T12:58:34.581Z",
+    "publishedDate": "2026-07-21T12:58:34.581Z",
+    "lastUpdated": "2026-07-21T12:58:34.581Z",
+    "deploymentType": 0,
+    "versions": [
+      {
+        "version": "0.8.30",
+        "flags": "validated",
+        "lastUpdated": "2026-07-21T12:58:34.581Z",
+        "properties": [
+          {
+            "key": "Microsoft.VisualStudio.Code.Engine",
+            "value": "^1.70.0"
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionDependencies",
+            "value": ""
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionPack",
+            "value": ""
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionKind",
+            "value": "ui,workspace"
+          }
+        ],
+        "files": [
+          {
+            "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+            "source": "https://127.0.0.1:8080/api/assets/shd101wyy/markdown-preview-enhanced/0.8.30/Microsoft.VisualStudio.Services.VSIXPackage"
+          },
+          {
+            "assetType": "Microsoft.VisualStudio.Code.Manifest",
+            "source": "https://127.0.0.1:8080/api/assets/shd101wyy/markdown-preview-enhanced/0.8.30/Microsoft.VisualStudio.Code.Manifest"
+          }
+        ],
+        "assetUri": "https://127.0.0.1:8080/api/assets/shd101wyy/markdown-preview-enhanced/0.8.30",
+        "fallbackAssetUri": "https://127.0.0.1:8080/api/assets/shd101wyy/markdown-preview-enhanced/0.8.30"
+      }
+    ]
+  },
+  {
+    "extensionId": "7caa9102-2d91-417b-9f6c-1deb058116a4",
+    "extensionName": "python",
+    "displayName": "Python",
+    "shortDescription": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
+    "publisher": {
+      "publisherId": "72f879fdba0828fcd4cac164f1c2188b468c1995",
+      "publisherName": "ms-python",
+      "displayName": "ms-python",
+      "flags": "verified"
+    },
+    "flags": "validated",
+    "statistics": [],
+    "tags": [],
+    "categories": [
+      "Programming Languages",
+      "Debuggers",
+      "Other",
+      "Data Science",
+      "Machine Learning"
+    ],
+    "releaseDate": "2026-07-21T12:58:34.636Z",
+    "publishedDate": "2026-07-21T12:58:34.636Z",
+    "lastUpdated": "2026-07-21T12:58:34.636Z",
+    "deploymentType": 0,
+    "versions": [
+      {
+        "version": "2024.8.1",
+        "flags": "validated",
+        "lastUpdated": "2026-07-21T12:58:34.636Z",
+        "properties": [
+          {
+            "key": "Microsoft.VisualStudio.Code.Engine",
+            "value": "^1.89.0-20240415"
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionDependencies",
+            "value": ""
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionPack",
+            "value": ""
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionKind",
+            "value": "ui,workspace"
+          }
+        ],
+        "files": [
+          {
+            "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+            "source": "https://127.0.0.1:8080/api/assets/ms-python/python/2024.8.1/Microsoft.VisualStudio.Services.VSIXPackage"
+          },
+          {
+            "assetType": "Microsoft.VisualStudio.Code.Manifest",
+            "source": "https://127.0.0.1:8080/api/assets/ms-python/python/2024.8.1/Microsoft.VisualStudio.Code.Manifest"
+          }
+        ],
+        "assetUri": "https://127.0.0.1:8080/api/assets/ms-python/python/2024.8.1",
+        "fallbackAssetUri": "https://127.0.0.1:8080/api/assets/ms-python/python/2024.8.1"
+      }
+    ]
+  },
+  {
+    "extensionId": "7d168049-2ab0-412a-a3b6-56635ad6ab19",
+    "extensionName": "jupyter",
+    "displayName": "Jupyter",
+    "shortDescription": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
+    "publisher": {
+      "publisherId": "7369e1baa5a0bc3137c8a675f1391843ca015e04",
+      "publisherName": "ms-toolsai",
+      "displayName": "ms-toolsai",
+      "flags": "verified"
+    },
+    "flags": "validated",
+    "statistics": [],
+    "tags": [],
+    "categories": [
+      "Extension Packs",
+      "Data Science",
+      "Machine Learning",
+      "Notebooks",
+      "Visualization"
+    ],
+    "releaseDate": "2026-07-21T12:58:34.644Z",
+    "publishedDate": "2026-07-21T12:58:34.644Z",
+    "lastUpdated": "2026-07-21T12:58:34.644Z",
+    "deploymentType": 0,
+    "versions": [
+      {
+        "version": "2025.9.1",
+        "flags": "validated",
+        "lastUpdated": "2026-07-21T12:58:34.644Z",
+        "properties": [
+          {
+            "key": "Microsoft.VisualStudio.Code.Engine",
+            "value": "^1.105.0"
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionDependencies",
+            "value": ""
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionPack",
+            "value": ""
+          },
+          {
+            "key": "Microsoft.VisualStudio.Code.ExtensionKind",
+            "value": "ui,workspace"
+          }
+        ],
+        "files": [
+          {
+            "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+            "source": "https://127.0.0.1:8080/api/assets/ms-toolsai/jupyter/2025.9.1/Microsoft.VisualStudio.Services.VSIXPackage"
+          },
+          {
+            "assetType": "Microsoft.VisualStudio.Code.Manifest",
+            "source": "https://127.0.0.1:8080/api/assets/ms-toolsai/jupyter/2025.9.1/Microsoft.VisualStudio.Code.Manifest"
+          }
+        ],
+        "assetUri": "https://127.0.0.1:8080/api/assets/ms-toolsai/jupyter/2025.9.1",
+        "fallbackAssetUri": "https://127.0.0.1:8080/api/assets/ms-toolsai/jupyter/2025.9.1"
+      }
+    ]
+  }
+]
