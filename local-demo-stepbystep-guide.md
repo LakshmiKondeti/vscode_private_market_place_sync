@@ -227,6 +227,13 @@ Set env vars before running the exe the same way, then repeat the Part 4.4 verif
 | Nexus container won't start / crashes | Low memory — Nexus wants ~2-4GB; check `docker logs nexus` for OOM errors, increase Docker Desktop's memory allocation |
 | Install fails partway through | Check `Content-Type` header — must be `application/octet-stream`, and confirm the byte stream isn't being altered (e.g. some proxies/antivirus tools intercept and corrupt binary streams) |
 
+
+## 
+# Test 1: Bearer (what our proxy currently sends)
+Invoke-WebRequest -Uri "$env:NEXUS_BASE_URL/manifest.json" -Headers @{Authorization="Bearer $env:NEXUS_TOKEN"} -UseBasicParsing
+
+# Test 2: PRIVATE-TOKEN (GitLab's more common header for this)
+Invoke-WebRequest -Uri "$env:NEXUS_BASE_URL/manifest.json" -Headers @{"PRIVATE-TOKEN"=$env:NEXUS_TOKEN} -UseBasicParsing
 ---
 
 ## What this local setup proves (for your org demo)
